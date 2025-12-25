@@ -30,7 +30,7 @@ Before running the script, ensure you have:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/resend-bulk-deleter.git](https://github.com/StormShadonw/deleteResendContacts.git)
+   git clone https://github.com/StormShadonw/deleteResendContacts.git 
    cd deleteResendContacts
 2.  Create a file in the same route that your main.py file ".env" with this content.
    ```bash
