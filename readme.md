@@ -32,3 +32,11 @@ Before running the script, ensure you have:
    ```bash
    git clone [https://github.com/your-username/resend-bulk-deleter.git](https://github.com/StormShadonw/deleteResendContacts.git)
    cd deleteResendContacts
+2.  Create a file in the same route that your main.py file ".env" with this content.
+   ```bash
+RESEND_API_KEY=re_**********************
+```
+3. run
+```bash
+python3 ./main.py
+```
